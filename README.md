@@ -38,4 +38,4 @@ MIT
 
 ## Citation
 
-Zhu Q. GABARAP/GABARAPL1 locus pQTL colocalizes with blood pressure traits in Europeans. *Commun Biol*. 2026.
+Zhu Q. GABARAP/GABARAPL1 locus pQTL colocalizes with blood pressure traits in Europeans. *Commun Biol*. 2026. Code: https://github.com/tianchaizhuqi/pqtl-mr-gabarap-bp
